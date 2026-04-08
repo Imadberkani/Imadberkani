@@ -59,8 +59,7 @@
 
   <tr>
     <td align="center"><b>WEB Applications</b></td>
-    <td align="center"><b>LLM-based A
-      pplications</b></td>
+    <td align="center"><b>LLM-based Applications</b></td>
   </tr>
   <tr>
     <td align="center" valign="middle" height="210">
