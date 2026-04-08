@@ -48,9 +48,8 @@
       &nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" valign="middle" height="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" alt="Plotly" />
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" width="85" alt="Plotly" />
       &nbsp;&nbsp;&nbsp;
-      <b>Plotly</b>
       <br><br>
       <b>Matplotlib</b>
       &nbsp;&nbsp;&nbsp;
