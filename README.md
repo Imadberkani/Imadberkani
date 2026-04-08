@@ -65,7 +65,7 @@
     <td align="center" valign="middle" height="190">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="70" alt="Flask" />
       &nbsp;&nbsp;&nbsp;
-      <b>Dash</b>
+      <img src="https://img.shields.io/badge/Dash-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" />
       <br><br>
       <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="35" alt="Streamlit" />
       &nbsp;<b>Streamlit</b>
