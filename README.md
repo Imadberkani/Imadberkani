@@ -99,7 +99,7 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="70" alt="Docker" />
       <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Azure_DevOps_icon.svg" width="50" alt="Azure DevOps" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" width="45" alt="Jenkins" />
       <br><br>
