@@ -102,17 +102,16 @@
       <img src="https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" width="45" alt="Jenkins" />
-      <br><br>
-      <b>Azure DevOps</b>
+
+  
     </td>
     <td align="center" valign="middle" height="190">
       <img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure" />
       &nbsp;&nbsp;&nbsp;
-      <b>Databricks</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" width="110" alt="Databricks" />
       <br><br>
       <b>Azure ML</b>
       <br><br>
-      <b>Azure Databricks</b>
     </td>
   </tr>
 </table>
