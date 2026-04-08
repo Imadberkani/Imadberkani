@@ -109,7 +109,6 @@
       <br><br>
       <b>Azure ML</b>
       <br><br>
-      <b>Azure Databricks</b>
     </td>
   </tr>
 </table>
