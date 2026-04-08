@@ -8,6 +8,16 @@
 - 📫 How to reach me: **berkaniimad75@gmail.com**
 
 
+## Hi there, I'm Imad Berkani 👋
+
+
+- 🎓 I hold a Master's degree in Applied Mathematics and Statistics from Sorbonne University. I also hold a specialized Master's degree in Data Science from INSA Rouen.
+- 🔭 I'm currently working on building LLM-based applications.
+- 📝 I'm passionate about AI, machine learning, and game theory.
+- 🎯 I'm currently learning RUST.
+- 📫 How to reach me: **berkaniimad75@gmail.com**
+
+
 ## My Skill Set
 
 <table>
@@ -83,7 +93,15 @@
   </tr>
   <tr>
     <td align="center" valign="middle" height="190">
-      <img src="https://skillicons.dev/icons?i=githubactions,pytest,docker,azure" alt="GitHub Actions, Pytest, Docker, Azure DevOps" />
+      <img src="https://cdn.simpleicons.org/githubactions" width="50" alt="GitHub Actions" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/pytest-dev/design/main/pytest_logo.svg" width="50" alt="pytest" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="70" alt="Docker" />
+      <br><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Azure_DevOps_icon.svg" width="50" alt="Azure DevOps" />
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" width="45" alt="Jenkins" />
       <br><br>
       <b>Azure DevOps</b>
     </td>
@@ -96,5 +114,7 @@
       <br><br>
       <b>Azure Databricks</b>
     </td>
+  </tr>
+</table>
   </tr>
 </table>
