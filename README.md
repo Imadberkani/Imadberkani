@@ -26,7 +26,7 @@
     <td align="center" valign="middle" height="190">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" alt="TensorFlow" />
       &nbsp;&nbsp;&nbsp;
-      <i class="devicon-pytorch-plain-wordmark colored" style="font-size: 55px;"></i>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" alt="PyTorch" />
       <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="85" alt="Scikit-learn" />
       &nbsp;&nbsp;&nbsp;
