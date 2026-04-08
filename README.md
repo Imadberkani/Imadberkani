@@ -71,7 +71,7 @@
       &nbsp;<b>Streamlit</b>
     </td>
     <td align="center" valign="middle" height="190">
-      <b>LangChain</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="95" alt="LangChain" />
       <br><br>
       <b>Together AI</b>
     </td>
