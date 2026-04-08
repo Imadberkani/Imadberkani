@@ -97,7 +97,6 @@
       <img src="https://az-icons.com/export/icons/e45bc37db437f2b75e42802263f9580a.svg" width="34" alt="Azure ML" />
       &nbsp;<b style="font-size: 18px;">Azure ML</b>
       <br><br>
-      <b style="font-size: 18px;">Azure Databricks</b>
     </td>
   </tr>
 </table>
