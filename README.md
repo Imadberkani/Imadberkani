@@ -95,7 +95,7 @@
     <td align="center" valign="middle" height="190">
       <img src="https://cdn.simpleicons.org/githubactions" width="50" alt="GitHub Actions" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/pytest-dev/design/main/pytest_logo.svg" width="50" alt="pytest" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="50" alt="pytest" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="70" alt="Docker" />
       <br><br>
