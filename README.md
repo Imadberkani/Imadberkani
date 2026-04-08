@@ -30,7 +30,7 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://brandeps.com/logo-download/C/CatBoost-logo-vector-01.svg" width="85" alt="CatBoost" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" width="85" alt="XGBoost" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" width="115" alt="XGBoost" />
     </td>
   </tr>
 
