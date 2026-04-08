@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%"><b>Programming languages</b></td>
+    <td align="center" width="50%"><b>Programming Languages</b></td>
     <td align="center" width="50%"><b>Machine Learning and deep learning</b></td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@
 
   <tr>
     <td align="center"><b>Databases</b></td>
-    <td align="center"><b>data visualisation</b></td>
+    <td align="center"><b>Data Visualisation</b></td>
   </tr>
   <tr>
     <td align="center" valign="middle" height="210">
@@ -58,7 +58,7 @@
   </tr>
 
   <tr>
-    <td align="center"><b>WEB applications</b></td>
+    <td align="center"><b>WEB Applications</b></td>
     <td align="center"><b>LLM-based applications</b></td>
   </tr>
   <tr>
