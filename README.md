@@ -46,7 +46,6 @@
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="110" alt="SQL Server" />
       &nbsp;&nbsp;&nbsp;
-      <b>SAS</b>
     </td>
     <td align="center" valign="middle" height="190">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" alt="Plotly" />
