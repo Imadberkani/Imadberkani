@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle" height="190">
-      <img src="https://cdn.simpleicons.org/githubactions" width="50" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="50" alt="pytest" />
       &nbsp;&nbsp;&nbsp;
