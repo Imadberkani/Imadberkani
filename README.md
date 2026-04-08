@@ -28,7 +28,7 @@
       <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="85" alt="Scikit-learn" />
       &nbsp;&nbsp;&nbsp;
-      <a href="https://seeklogo.com/vector-logo/539892/catboost.svg" target="_blank">CatBoost</a>
+      <img src="https://brandeps.com/logo-download/C/CatBoost-logo-vector-01.svg" width="85" alt="CatBoost" />
       &nbsp;&nbsp;&nbsp;
       <b>XGBoost</b>
     </td>
