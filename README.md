@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center" width="50%"><b>Programming Languages</b></td>
-    <td align="center" width="50%"><b>Machine Learning and deep learning</b></td>
+    <td align="center" width="50%"><b>Machine Learning and Deep learning</b></td>
   </tr>
   <tr>
     <td align="center" valign="middle" height="210">
@@ -80,8 +80,8 @@
   </tr>
 
   <tr>
-    <td align="center"><b>DevOps & testing</b></td>
-    <td align="center"><b>Cloud & platforms</b></td>
+    <td align="center"><b>DevOps & Testing</b></td>
+    <td align="center"><b>Cloud & Platforms</b></td>
   </tr>
   <tr>
     <td align="center" valign="middle" height="220">
