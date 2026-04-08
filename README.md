@@ -8,17 +8,6 @@
 - 📫 How to reach me: **berkaniimad75@gmail.com**
 
 
-## Hi there, I'm Imad Berkani 👋
-
-
-- 🎓 I hold a Master's degree in Applied Mathematics and Statistics from Sorbonne University. I also hold a specialized Master's degree in Data Science from INSA Rouen.
-- 🔭 I'm currently working on building LLM-based applications.
-- 📝 I'm passionate about AI, machine learning, and game theory.
-- 🎯 I'm currently learning RUST.
-- 📫 How to reach me: **berkaniimad75@gmail.com**
-
-
-
 ## My Skill Set
 
 <table>
@@ -60,9 +49,9 @@
     <td align="center" valign="middle" height="190">
       <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" width="150" alt="Plotly" />
       <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg" width="150" alt="Matplotlib" />
+      <img src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg" width="145" alt="Matplotlib" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="150" alt="Seaborn" />
+      <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="145" alt="Seaborn" />
     </td>
   </tr>
 
@@ -73,7 +62,7 @@
   <tr>
     <td align="center" valign="middle" height="190">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="75" alt="Flask" />
-      &nbsp;&nbsp;&nbsp;
+      <br><br>
       <img src="https://img.shields.io/badge/Dash-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" />
       <br><br>
       <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="35" alt="Streamlit" />
@@ -82,7 +71,7 @@
     <td align="center" valign="middle" height="190">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="100" alt="LangChain" />
       <br><br>
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/together-text.svg" width="120" alt="Together AI" />
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/together-text.svg" width="125" alt="Together AI" />
     </td>
   </tr>
 
@@ -96,19 +85,18 @@
       <br><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="52" alt="pytest" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="85" alt="Docker" />
-      &nbsp;&nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="80" alt="Docker" />
+      <br><br>
       <img src="https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" width="48" alt="Jenkins" />
+      <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" width="42" alt="Jenkins" />
     </td>
     <td align="center" valign="middle" height="190">
-      <img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure" />
-      &nbsp;&nbsp;&nbsp;
-      <b>Databricks</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" width="150" alt="Databricks" />
       <br><br>
       <b>Azure ML</b>
       <br><br>
+      <b>Azure Databricks</b>
     </td>
   </tr>
 </table>
