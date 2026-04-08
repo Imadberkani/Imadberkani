@@ -21,7 +21,6 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="68" alt="R" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
     </td>
     <td align="center" valign="middle" height="210">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="62" alt="TensorFlow" />
