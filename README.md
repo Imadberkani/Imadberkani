@@ -20,7 +20,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="68" alt="Python" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="68" alt="R" />
-      &nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" valign="middle" height="210">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="62" alt="TensorFlow" />
@@ -47,7 +46,6 @@
       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="120" alt="SQL Server" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/SAS-005CA5.svg?style=for-the-badge" alt="SAS" />
     </td>
     <td align="center" valign="middle" height="210">
       <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" width="170" alt="Plotly" />
@@ -75,8 +73,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="115" alt="LangChain" />
       <br><br>
       <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/together-text.svg" width="140" alt="Together AI" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Weaviate-00D4AA.svg?style=for-the-badge" alt="Weaviate" />
     </td>
   </tr>
 
@@ -98,6 +94,8 @@
     </td>
     <td align="center" valign="middle" height="220">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" width="165" alt="Databricks" />
+      <br><br>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
       <br><br>
       <img src="https://az-icons.com/export/icons/e45bc37db437f2b75e42802263f9580a.svg" width="34" alt="Azure ML" />
       &nbsp;<b style="font-size: 18px;">Azure ML</b>
