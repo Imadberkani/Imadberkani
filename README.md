@@ -21,6 +21,7 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="68" alt="R" />
       &nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
     </td>
     <td align="center" valign="middle" height="210">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="62" alt="TensorFlow" />
@@ -74,6 +75,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="115" alt="LangChain" />
       <br><br>
       <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/together-text.svg" width="140" alt="Together AI" />
+      <br><br>
+      <img src="https://cdn.brandfetch.io/idtqv58Tcw/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="130" alt="Weaviate" />
     </td>
   </tr>
 
