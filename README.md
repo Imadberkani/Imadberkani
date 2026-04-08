@@ -76,7 +76,7 @@
       <br><br>
       <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/together-text.svg" width="140" alt="Together AI" />
       <br><br>
-      <img src="https://cdn.brandfetch.io/idtqv58Tcw/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="130" alt="Weaviate" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Weaviate_logo.svg" width="130" alt="Weaviate" />
     </td>
   </tr>
 
