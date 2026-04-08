@@ -10,29 +10,27 @@
 
 ## My Skill Set
 
-## My Skill Set
-
 <table>
   <tr>
     <td align="center" width="50%"><b>Programming languages</b></td>
     <td align="center" width="50%"><b>Machine Learning and deep learning</b></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" height="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python" />
+    <td align="center" valign="middle" height="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="70" alt="R" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60" alt="R" />
     </td>
-    <td align="center" valign="middle" height="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" alt="TensorFlow" />
+    <td align="center" valign="middle" height="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" alt="TensorFlow" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="65" alt="PyTorch" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" alt="PyTorch" />
       <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100" alt="Scikit-learn" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="85" alt="Scikit-learn" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://avatars.githubusercontent.com/u/8297141?s=200&v=4" width="60" alt="XGBoost" />
-      <br><br>
-      <img src="https://avatars.githubusercontent.com/u/103779200?s=200&v=4" width="60" alt="CatBoost" />
+      <b>CatBoost</b>
+      &nbsp;&nbsp;&nbsp;
+      <b>XGBoost</b>
     </td>
   </tr>
 
@@ -41,22 +39,23 @@
     <td align="center"><b>data visualisation</b></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" height="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90" alt="MySQL" />
+    <td align="center" valign="middle" height="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="85" alt="MySQL" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="100" alt="Oracle" />
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="90" alt="Oracle" />
       <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="120" alt="SQL Server" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="110" alt="SQL Server" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" width="90" alt="SAS" />
+      <b>SAS</b>
     </td>
-    <td align="center" valign="middle" height="220">
-      <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="45" alt="Plotly" />
-      <img src="https://images.plot.ly/logo/new-branding/plotly-logo.png" width="95" alt="Plotly" />
+    <td align="center" valign="middle" height="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" alt="Plotly" />
+      &nbsp;&nbsp;&nbsp;
+      <b>Plotly</b>
       <br><br>
-      <img src="https://matplotlib.org/_static/images/logo2.svg" width="120" alt="Matplotlib" />
-      <br><br>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70" alt="Seaborn" />
+      <b>Matplotlib</b>
+      &nbsp;&nbsp;&nbsp;
+      <b>Seaborn</b>
     </td>
   </tr>
 
@@ -65,18 +64,18 @@
     <td align="center"><b>LLM-based applications</b></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" height="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="80" alt="Flask" />
+    <td align="center" valign="middle" height="190">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="70" alt="Flask" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" width="60" alt="Dash" />
+      <b>Dash</b>
       <br><br>
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" alt="Streamlit" />
-      <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="140" alt="Streamlit" />
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="35" alt="Streamlit" />
+      &nbsp;<b>Streamlit</b>
     </td>
-    <td align="center" valign="middle" height="220">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="180" alt="LangChain" />
+    <td align="center" valign="middle" height="190">
+      <b>LangChain</b>
       <br><br>
-      <img src="https://framerusercontent.com/images/3hB6o4j2w2g5D7x0Sgk4G9QxE.png" width="180" alt="Together AI" />
+      <b>Together AI</b>
     </td>
   </tr>
 
@@ -85,23 +84,19 @@
     <td align="center"><b>Cloud & platforms</b></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" height="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="65" alt="GitHub Actions" />
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="65" alt="Pytest" />
+    <td align="center" valign="middle" height="190">
+      <img src="https://skillicons.dev/icons?i=githubactions,pytest,docker,azure" alt="GitHub Actions, Pytest, Docker, Azure DevOps" />
       <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" alt="Docker" />
-      &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="65" alt="Azure DevOps" />
+      <b>Azure DevOps</b>
     </td>
-    <td align="center" valign="middle" height="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="65" alt="Azure" />
+    <td align="center" valign="middle" height="190">
+      <img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://companieslogo.com/img/orig/DT_BIG.D-54d441f4.png?t=1720244490" width="110" alt="Databricks" />
+      <b>Databricks</b>
       <br><br>
-      Azure ML
+      <b>Azure ML</b>
       <br><br>
-      Azure Databricks
+      <b>Azure Databricks</b>
     </td>
   </tr>
 </table>
