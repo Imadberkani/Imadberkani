@@ -108,7 +108,7 @@
     <td align="center" valign="middle" height="190">
       <img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure" />
       &nbsp;&nbsp;&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" width="110" alt="Databricks" />
+   
       <br><br>
       <b>Azure ML</b>
       <br><br>
