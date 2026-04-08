@@ -73,7 +73,7 @@
     <td align="center" valign="middle" height="190">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" width="95" alt="LangChain" />
       <br><br>
-      <b>Together AI</b>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/together-text.svg" width="110" alt="Together AI" />
     </td>
   </tr>
 
