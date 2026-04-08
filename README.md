@@ -48,12 +48,12 @@
       &nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" valign="middle" height="190">
-      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" width="85" alt="Plotly" />
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" width="150" alt="Plotly" />
       &nbsp;&nbsp;&nbsp;
       <br><br>
       <b>Matplotlib</b>
       &nbsp;&nbsp;&nbsp;
-      <b>Seaborn</b>
+      <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="150" alt="Seaborn" />
     </td>
   </tr>
 
