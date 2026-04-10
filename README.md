@@ -32,6 +32,8 @@
       <img src="https://brandeps.com/logo-download/C/CatBoost-logo-vector-01.svg" width="95" alt="CatBoost" />
       &nbsp;&nbsp;&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" width="135" alt="XGBoost" />
+      <br><br>
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="62" alt="Hugging Face" />
     </td>
   </tr>
 
